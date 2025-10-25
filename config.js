@@ -1,2 +1,2 @@
 console.log("Configuration file loaded successfully.");
-console.log("Version3");
+console.log("Version4");
